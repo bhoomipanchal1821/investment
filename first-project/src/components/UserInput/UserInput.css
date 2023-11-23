@@ -1,0 +1,15 @@
+    form.form.whole-form {
+        width: 40%;background: linear-gradient(180deg, #307e6c, #2b996d);color: white;
+    }
+    .form input {background: linear-gradient(180deg, #307e6c, #2b996d);padding: 0.7rem;color: white;}
+
+    .btn-group {
+        margin: 1rem;
+    }
+    button.btn.btn-lg.calculate {
+        background: linear-gradient(180deg, #1f584b, #17493d);
+        color: #c2e9e0;border: none;
+    }
+    button.btn.btn-lg.reset {
+        color: #c2e9e0;border: none;
+    }

@@ -1,0 +1,9 @@
+th {
+    padding-left: 2.4rem !important;color: #83e6c0;
+}
+table.result.text-light.mt-5.mx-auto {
+    max-width: 50rem;
+}
+td {
+    text-align: right;padding: 0.9rem;color: #83e6c0;
+}
